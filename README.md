@@ -25,5 +25,4 @@ Estágiei na Senior Sistenas por alguns meses e após isso consegui uma vaga na 
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonKlinkowski&layout=compact)
 </div>
