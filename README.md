@@ -26,6 +26,7 @@ Estágiei na Senior Sistenas por alguns meses e após isso consegui uma vaga na 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WellingtonKlinkowski&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WellingtonKlinkowski&show_icons=true&theme=transparent)
 
 
 </div>
